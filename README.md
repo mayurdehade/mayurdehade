@@ -1,47 +1,92 @@
-# Welcome to My GitHub Profile! 👋
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-## Introduction
+###
 
-Hi there! I'm [Mayur Dehade](https://github.com/mayurdehade), a passionate software developer with a keen interest in Java and web development. I'm currently focused on learning JavaScript, Java programming, and Data Structures and Algorithms.
+<div align="center">
+  <a href="https://www.linkedin.com/in/mayurdehade/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/MayurDehade" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="mailto::mayurdehade0504@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-## About Me
+###
 
-- 💻 I'm proficient in Java, HTML, CSS, and PHP.
-- 🔭 I'm constantly working on improving my skills and exploring new technologies.
-- 🌱 I believe in continuous learning and enjoy challenging myself with new projects.
-- 💼 I'm open to new opportunities and collaborations in software development.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurdehade.mayurdehade&left_color=blue&right_color=dimgray"  />
+</div>
 
-## Projects
+###
 
-Here are a few noteworthy projects I've worked on:
+<h1 align="center">hey there 👋,</h1>
 
-1. [Student Result Management System](https://github.com/mayurdehade/student-result-management-system-php): A PHP-based web application for managing student results, utilizing MySQL database.
-2. [Project Name 2](Link to project 2): Short project description.
+###
 
-Feel free to explore my repositories for more projects and code samples!
+<h3 align="left">👩‍💻  About Me</h3>
 
-## GitHub Stats
+###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurdehade&show_icons=true&count_private=true&hide=stars&theme=dark)
+<p align="left">I'm Mayur from India<br><br>- 🔭 I’m CSE student<br>- 📚 I'm currently learning Java Programming, and DSA<br>- ⚡ In my free time I read books</p>
 
-## Popular Repositories
+###
 
-Here are some of my popular repositories:
+<h3 align="left">🛠 Language and tools</h3>
 
-1. [Repository 1](Link to repo 1): Short description.
-2. [Repository 2](Link to repo 2): Short description.
+###
 
-## Languages and Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-Here are the programming languages and tools I frequently use:
+###
 
-- Java
-- JavaScript
-- HTML
-- CSS
-- PHP
-- MySQL
+<h3 align="left">🔥   My Stats :</h3>
 
-If you have any questions or would like to collaborate on a project, feel free to reach out. I'm always eager to connect with fellow developers and exchange knowledge!
+###
 
-Happy coding! 😊
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mayurdehade&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurdehade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurdehade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mayurdehade/mayurdehade/output/snake.svg" alt="Snake animation" />
+
+###
