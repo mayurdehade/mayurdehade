@@ -11,8 +11,11 @@
 - 🌱 I’m currently learning **Angular, DSA in Java**
 
 <!-- - 👨‍💻 All of my projects are available at [Under Construction](Under Construction) -->
+- 🚀 Passion for building **Scalable**, **High-Performance** apps.
+  
+- 🔧 Building **RESTful API's**, **Responsive UIs**.
 
-- 💬 Ask me about **Java, Spring Boot, Hibernate etc.**
+- 💬 Ask me about **Java, Spring Boot, Hibernate, REST API's etc.**
 <hr>
 
 ###
