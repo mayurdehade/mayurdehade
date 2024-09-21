@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **Angular, DSA in Java**
 
-<!-- - 👨‍💻 All of my projects are available at [Under Construction](Under Construction) -->
+- 👨‍💻 Check my portfolio here ([PortFolio](https://mayurd.netlify.app/))
+
 - 🚀 Passion for building **Scalable**, **High-Performance** apps.
   
 - 🔧 Building **RESTful API's**, **Responsive UIs**.
