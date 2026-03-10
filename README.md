@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm Mayur Dehade </h1>
-<h3 align="center">A passionate full stack java developer</h3>
+<h3 align="center">A Passionate Backend Developer</h3>
 <p align="left">👋 Hello, I'm Mayur!
-🚀 A Software Developer with a passion for Java Backend Development, specializing in Java, Spring, Spring Boot, Hibernate, Data JPA, MySQL, MongoDB, AWS etc.
+🚀 A Software Developer with a passion for Backend Development, specializing in Java, Spring, Spring Boot, Hibernate, Data JPA, MySQL, MongoDB, AWS etc.
 💻 Focused on creating robust, scalable web applications and always eager to explore new technologies.
 
 <hr>
